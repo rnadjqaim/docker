@@ -14,5 +14,12 @@
   #--------------------------------------------------------
   docker actually manages your containers 
   - we can run container without docker, by have create hold directory, cgroup, dependency
-  - docker history : 
+  - docker history : dotcloud,PAAS business(customer), used(LXC) linux container
+  - docker :saved capex by using containers instead of vms
+  - ----------------------------------------------------------------
+  - docker , docker engine, dokcer project (open source)
+  - docker containers that  run in the docker engine :
+  1. standard : created the industry standard for containers, portable 
+  2. lightweight  : containers share the machine os system kernal and therefore dont require an os per application, driving higher server efficiencies and reducing server and licensing costs.
+  3. secure : strongest default isolation capabilities in the industry.
   
