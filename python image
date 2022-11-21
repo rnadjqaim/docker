@@ -1,0 +1,2 @@
+docker pull python
+docker run -it --name python-cont python
